@@ -1,0 +1,29 @@
+# PROJECT IoT: Kontrol Lampu Jarak Jauh
+
+## Deskripsi
+Project ini digunakan untuk mengontrol lampu dari jarak jauh menggunakan NodeMCU dan WiFi.
+
+## Software Preparation
+1. Arduino IDE
+2. Driver USB
+3. Browser
+
+## Hardware Preparation
+1. NodeMCU ESP8266
+2. Relay 1 Channel
+3. Lampu / LED
+4. Breadboard
+5. Kabel Jumper
+
+## Library & Anything
+1. ESP8266WiFi
+2. Install board ESP8266 di Arduino IDE
+
+## Cara Kerja
+1. NodeMCU terhubung ke WiFi
+2. HP membuka web server
+3. Klik ON/OFF
+4. Lampu menyala/mati
+
+## Hasil
+Lampu dapat dikontrol melalui HP dari jarak jauh.
